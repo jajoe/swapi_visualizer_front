@@ -1,0 +1,8 @@
+{
+  "short_name": "SWAPI front",
+  "name": "SWAPI Project, front-end part, developed by Jajoe",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#a2110a",
+  "background_color": "#e6e6e6"
+}
