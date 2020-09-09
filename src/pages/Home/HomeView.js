@@ -16,7 +16,7 @@ const HomeView = ({
   searchResults,
 }) => (
   <>
-    <Title style={{ marginBottom: '32px' }}>SWAPI exporation</Title>
+    <Title style={{ marginBottom: '32px' }}>SWAPI exploration</Title>
     <Paragraph style={{ padding: '8px 16px', textAlign: 'center' }}>
       Cette application web a pour but d'explorer la base de données SWAPI.
       <br />

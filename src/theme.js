@@ -1,7 +1,8 @@
 const theme = {
   main: '#e6e6e6',
-  secondary: '#a2110a',
-  tertiary: '#f3ca30',
+  secondary: '#5961AA',
+  tertiary: '#7EAACD',
+  lightred: '#E85C5D',
 };
 
 export default theme;
